@@ -1,0 +1,14 @@
+{
+    "name": "Hexgrid",
+    "description" : "2014 Skarphed Theme",
+    "author" : "Daniel 'grindhold' Brendle",
+    
+    "pages":[
+      {
+        "name":"MainSite",
+        "desc":"Mainsite for Content",
+        "filename":"mainsite.html",
+        "default":true
+      }
+    ]
+  }
